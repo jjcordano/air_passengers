@@ -47,7 +47,7 @@ The best model that was tested was a 6 layer artificial neural network (ANN), yi
 
 #### Install :
 
-To run a submission and the notebook you will need the dependencies listed
+The required dependencies to run our submission are listed
 in `requirements.txt`. You can install the dependencies with the
 following command-line:
 
@@ -71,8 +71,3 @@ You can get more information regarding this command line:
 ```bash
 ramp-test --help
 ```
-
-#### To go further
-
-You can find more information regarding `ramp-workflow` in the
-[dedicated documentation](https://paris-saclay-cds.github.io/ramp-docs/ramp-workflow/stable/using_kits.html)
